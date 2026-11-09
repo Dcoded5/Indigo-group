@@ -1,2 +1,2 @@
 # Indigo-group
-The repository for Peter,Ebenizer,Victor,Danny, and Ebuka
+The repository for Peter,Ebenezer,Victor,Danny, and Ebuka
